@@ -1,3 +1,3 @@
 # GLSO0215 LAB
-jaedong
+jaedongseo
 ## Lab 5 Branch
